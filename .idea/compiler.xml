@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="JSON_Database.JSON_Database-task-build-classes-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-reports-tests.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-test-results.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-tmp.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-out.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task.main" target="11" />
+      <module name="JSON_Database.Topics-Getters_and_setters-Account.main" target="11" />
+      <module name="JSON_Database.Topics-Getters_and_setters-Book.main" target="11" />
+      <module name="JSON_Database.Topics-Getters_and_setters-Complex.main" target="11" />
+      <module name="JSON_Database.Topics-Getters_and_setters-Getting_the_fullname.main" target="11" />
+      <module name="JSON_Database.Topics-Getters_and_setters-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-First_digit.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Good_rest_on_vacation.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Next_even_number.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Reversing.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
+      <module name="JSON_Database.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Boys_in_a_sport_class.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Check_the_given_numbers_are_different.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Groundhogs_at_a_party.main" target="11" />
+      <module name="JSON_Database.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="JSON_Database.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

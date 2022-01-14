@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/JSON Database/task/build/
+/JSON Database/task/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
